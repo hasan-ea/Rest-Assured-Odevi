@@ -16,9 +16,10 @@ Bu projede Swagger Petstore API kullanılarak REST-Assured ile POST /pet endpoin
     - id alanının boş olmadığı
     - name ve status alanlarının gönderilen değerlerle aynı olduğu kontrol edilmiştir
 
+
 ## Proje Yapısı
-src 
-├─ main/java/model/Pet.java  
+src   
+├─ main/java/model/Pet.java
 └─ test/java/api/PetApiTest.java
 
 ## Çalıştırma
