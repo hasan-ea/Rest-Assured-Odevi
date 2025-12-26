@@ -18,7 +18,7 @@ Bu projede Swagger Petstore API kullanılarak REST-Assured ile POST /pet endpoin
 
 ## Proje Yapısı
 src
-├─ main/java/model/Pet.java
+├─ main/java/model/Pet.java  
 └─ test/java/api/PetApiTest.java
 
 ## Çalıştırma
